@@ -92,10 +92,6 @@ section{
     font-weight:700;
     border-radius: 2%;
 }
-    .none{
-        border-image: linear-gradient(orange red);
-      border-image-slice:1 ;
-      border-left: 7px solid rgb(119, 119, 18);
-}
+    
     
     
