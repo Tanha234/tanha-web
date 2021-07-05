@@ -42,4 +42,36 @@ section{
 }
 .Experience{
     display:flex;
+    
 }
+.width{
+    width:40%;
+    box-shadow: 10px 10px 40px goldenrod;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding:2%;
+    border-radius: 2%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    border-image: linear-gradiant(rgb(163, 158, 149) rgb(225, 0, 255));
+      border-image-slice:1 ;
+      border-left: 7px solid rgb(221, 221, 217);
+}
+.server{
+    width:40%;
+    box-shadow: 10px 10px 40px goldenrod;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    padding:2%;
+    border-radius: 2%;
+    margin-top: 5%;
+    border-image: linear-gradiant(rgb(193, 193, 204) rgb(80, 73, 40));
+      border-image-slice:1 ;
+      border-left: 7px solid rgb(204, 204, 180);
+}
+.Experience{
+    background-image: url(images/Green\ Concept\ Stock\ Vector\ \(Royalty\ Free\)\ 65450734.jpg);
+    background-repeat: no-repeat;
+}
+    
