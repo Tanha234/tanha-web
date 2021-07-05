@@ -11,12 +11,14 @@ p{
 section{
     display: flex;
 }
-h1{
+.dlt{
     font-size: 50px;
 }
    body{
 
     font-family: 'Noto Sans JP', sans-serif;
+    color:rgb(9, 70, 14);
+}
    } 
 .half-width{
     width:50%;
@@ -28,4 +30,16 @@ h1{
 .back{
     background-image: url(images/Green\ Concept\ Stock\ Vector\ \(Royalty\ Free\)\ 65450734.jpg);
     background-repeat: no-repeat;
+}
+.link{
+    color: darkslateblue;
+    border-right: darkolivegreen;
+    margin-right: 10px;
+}
+.pink
+{
+    color:forestgreen;
+}
+.Experience{
+    display:flex;
 }
