@@ -31,11 +31,16 @@ section{
     background-image: url(images/Green\ Concept\ Stock\ Vector\ \(Royalty\ Free\)\ 65450734.jpg);
     background-repeat: no-repeat;
 }
-.link{
-    color: darkslateblue;
-    border-right: darkolivegreen;
-    margin-right: 10px;
+.link
+{text-decoration: none;
+  
+    padding:10px 10px;
+    background-image:linear-gradient(rgb(199, 140, 31),rgb(235, 232, 231));
+    color:rgb(190, 73, 26);
+    font-weight:700;
+    border-radius: 2%
 }
+    
 .pink
 {
     color:forestgreen;
@@ -66,7 +71,7 @@ section{
     padding:2%;
     border-radius: 2%;
     margin-top: 5%;
-    border-image: linear-gradiant(rgb(193, 193, 204) rgb(80, 73, 40));
+    background-image: linear-gradiant(rgb(193, 193, 204) rgb(80, 73, 40));
       border-image-slice:1 ;
       border-left: 7px solid rgb(204, 204, 180);
 }
@@ -74,4 +79,18 @@ section{
     background-image: url(images/Green\ Concept\ Stock\ Vector\ \(Royalty\ Free\)\ 65450734.jpg);
     background-repeat: no-repeat;
 }
+
+#blue{
+    text-align: center;
+} 
+.button{
+    text-decoration: none;
+  
+    padding:10px 10px;
+    background-image:linear-gradient(rgb(199, 140, 31),rgb(235, 232, 231));
+    color:rgb(190, 73, 26);
+    font-weight:700;
+    border-radius: 2%;
+}
+    
     
